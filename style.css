@@ -1,0 +1,35 @@
+#body{
+    background-color: beige;
+}
+#header{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: beige;
+}
+#start_button{
+    width: 100px;
+    height: 30px;
+    font-size: 20px;
+    border-radius: 5px;
+    background-color:deepskyblue;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#times_detected, #animal_type{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#image{
+    width: 300px;
+    height: 300px;
+    border-radius: 3px;
+    background-color:blanchedalmond;
+    border: 4px;
+    border-style: dashed;
+}
+#footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
+}
